@@ -1,0 +1,1499 @@
+{
+  "status": {
+    "rcode": 200,
+    "message": "OK"
+  },
+  "data": {
+    "0": {
+      "SubFranchiseID": "0",
+      "OutletID": "607",
+      "OutletName": "Spill ",
+      "BrandID": "403",
+      "Address": "J-349, JP Road, Opp. Apna Bazar, JP Rd, D.N.Nagar, Andheri West, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 6 pm to 1:30 am.",
+      "CityRank": null,
+      "Latitude": "19.127473",
+      "Longitude": "72.832545",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Spill ",
+      "OutletURL": "https:\/\/plus.google.com\/111539701326240643109\/about?hl=en-US",
+      "NumCoupons": 1,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 2642 5895",
+      "CityName": "Mumbai",
+      "Distance": 8205.2235,
+      "Categories": [
+        {
+          "OfflineCategoryID": "32",
+          "Name": "Continental",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "13",
+          "Name": "Bar and Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "17",
+          "Name": "Italian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "21",
+          "Name": "North Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_403.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_607.jpg"
+    },
+    "1": {
+      "SubFranchiseID": "0",
+      "OutletID": "32",
+      "OutletName": "PizzaRoma",
+      "BrandID": "20",
+      "Address": "Shop No 44, Laxmi Plaza, opposite Nimbus, Sab TV Road, Andheri (West), SAB TV Rd, Laxmi Industrial Estate, Suresh Nagar, Andheri West, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.136157",
+      "Longitude": "72.829356",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "PizzaRoma",
+      "OutletURL": "https:\/\/plus.google.com\/108897593348342797580\/about?hl=en-US",
+      "NumCoupons": 3,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 2632 9995",
+      "CityName": "Mumbai",
+      "Distance": 8204.98752,
+      "Categories": [
+        {
+          "OfflineCategoryID": "8",
+          "Name": "Pizzeria",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "17",
+          "Name": "Italian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "47",
+          "Name": "Pizza",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_20.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_32.jpg"
+    },
+    "2": {
+      "SubFranchiseID": "0",
+      "OutletID": "41",
+      "OutletName": "Delicacy Of China",
+      "BrandID": "27",
+      "Address": "2 & 3, Link Palace Building, Lokhandwala Complex, Azad Nagar, Andheri West, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.1294",
+      "Longitude": "72.836122",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Delicacy Of China",
+      "OutletURL": "https:\/\/plus.google.com\/105374472794463077640\/about?hl=en-US",
+      "NumCoupons": 1,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 2635 8245",
+      "CityName": "Mumbai",
+      "Distance": 8205.61886,
+      "Categories": [
+        {
+          "OfflineCategoryID": "22",
+          "Name": "Chinese",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "29",
+          "Name": "Thai",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_27.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_41.jpg"
+    },
+    "3": {
+      "SubFranchiseID": "0",
+      "OutletID": "194",
+      "OutletName": "Miro",
+      "BrandID": "136",
+      "Address": "SAB TV Road, Off Link Road Andheri Wes, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 7 am to 11 am, 12:30 pm to 3:30 pm and 7:30 pm to 11:30 pm.",
+      "CityRank": null,
+      "Latitude": "19.136383",
+      "Longitude": "72.827997",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Svenska Hotels",
+      "OutletURL": "https:\/\/plus.google.com\/103241113755495093817\/about?hl=en-US",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 9167981016",
+      "CityName": "Mumbai",
+      "Distance": 8204.84804,
+      "Categories": [
+        {
+          "OfflineCategoryID": "6",
+          "Name": "Hotel",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "29",
+          "Name": "Thai",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "27",
+          "Name": "Mediterrenean",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "24",
+          "Name": "South Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "22",
+          "Name": "Chinese",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "21",
+          "Name": "North Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "20",
+          "Name": "Lebanese",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "18",
+          "Name": "Mexican",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "17",
+          "Name": "Italian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_136.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_194.jpg"
+    },
+    "6": {
+      "SubFranchiseID": "0",
+      "OutletID": "1",
+      "OutletName": "Bistro1",
+      "BrandID": "1",
+      "Address": "9 Mayfair Building, Oberoi Complex, Behind SAB TV lane\/Svenska Hotel, Vastu Ln, Shastri Nagar, Andheri West, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 11 pm.",
+      "CityRank": null,
+      "Latitude": "19.136715",
+      "Longitude": "72.829248",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Bistro1",
+      "OutletURL": "https:\/\/plus.google.com\/116527542093939897216\/about?hl=en-US",
+      "NumCoupons": 1,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 6725 5779",
+      "CityName": "Mumbai",
+      "Distance": 8204.98248,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "2",
+          "Name": "Cafe",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "23",
+          "Name": "European",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_1.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_1.jpg"
+    },
+    "7": {
+      "SubFranchiseID": "0",
+      "OutletID": "478",
+      "OutletName": "Nothing But Chicken",
+      "BrandID": "319",
+      "Address": "New Versova Link Rd, Seven Bungalow, Andheri West, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 10 am to 10 pm.",
+      "CityRank": null,
+      "Latitude": "19.128483",
+      "Longitude": "72.821199",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Nothing But Chicken",
+      "OutletURL": "https:\/\/plus.google.com\/103235155449323508396\/about?hl=en-US",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "(+91) 22 67082200",
+      "CityName": "Mumbai",
+      "Distance": 8204.04917,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "14",
+          "Name": "Eatery",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_319.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_478.jpg"
+    },
+    "8": {
+      "SubFranchiseID": "0",
+      "OutletID": "74",
+      "OutletName": "Discovery Restaurant",
+      "BrandID": "52",
+      "Address": "Shop No-4, Varsha Building, Bank Of Maharashtra Ln, Seven Bunglow, Andheri West, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11.30 am to 11.30 pm.",
+      "CityRank": null,
+      "Latitude": "19.128528",
+      "Longitude": "72.819388",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Discovery Restaurants",
+      "OutletURL": "https:\/\/plus.google.com\/105855459695391075727\/about?hl=en-US",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 99 30 891110",
+      "CityName": "Mumbai",
+      "Distance": 8203.86043,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "22",
+          "Name": "Chinese",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "29",
+          "Name": "Thai",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_52.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_74.jpg"
+    },
+    "9": {
+      "SubFranchiseID": "0",
+      "OutletID": "341",
+      "OutletName": "Juice Lounge",
+      "BrandID": "238",
+      "Address": "Sunshine Building, Lokhandwala Market, New Link Rd, Andheri West, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 10 am to 11 pm.",
+      "CityRank": null,
+      "Latitude": "19.140333",
+      "Longitude": "72.831095",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Juice Lounge",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=New+Link+Rd,+Andheri+West,+Mumbai,+Maharashtra,+India&ftid=0x3be7b62105e39d2f:0xbad31b8a33c219d0",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": " (+91) 22 67425895",
+      "CityName": "Mumbai",
+      "Distance": 8205.21602,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "35",
+          "Name": "Desserts\/Confectionary",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "5",
+          "Name": "Lounge",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_238.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_341.jpg"
+    },
+    "10": {
+      "SubFranchiseID": "0",
+      "OutletID": "294",
+      "OutletName": "Hangla's",
+      "BrandID": "213",
+      "Address": "2nd Floor, Infniti Mall, P Tandon Marg, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 11 pm.",
+      "CityRank": null,
+      "Latitude": "19.14027",
+      "Longitude": "72.826285",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Hangla's",
+      "OutletURL": "https:\/\/plus.google.com\/104588767398828198788\/about?hl=en-US",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 3093 2030",
+      "CityName": "Mumbai",
+      "Distance": 8204.71271,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "14",
+          "Name": "Eatery",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "71",
+          "Name": "Bengali",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "21",
+          "Name": "North Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_213.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_294.jpg"
+    },
+    "11": {
+      "SubFranchiseID": "0",
+      "OutletID": "344",
+      "OutletName": "Rollacosta",
+      "BrandID": "239",
+      "Address": "215, Infinity Mall, New Link Road, Andheri West, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 10 pm.",
+      "CityRank": null,
+      "Latitude": "19.141377",
+      "Longitude": "72.830933",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Rollacosta",
+      "OutletURL": "https:\/\/plus.google.com\/110376479645731956331\/about?hl=en-IN",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "(+91) 99 67076222",
+      "CityName": "Mumbai",
+      "Distance": 8205.21079,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "20",
+          "Name": "Lebanese",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_239.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_344.jpg"
+    },
+    "12": {
+      "SubFranchiseID": "0",
+      "OutletID": "14",
+      "OutletName": "Shawarma Factory",
+      "BrandID": "15",
+      "Address": "Naman Apartment, New Dadabhai Rd, Tepgaon, Andheri West, Andhei west, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 11 pm.",
+      "CityRank": null,
+      "Latitude": "19.124647",
+      "Longitude": "72.840421",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Shawarma Factory",
+      "OutletURL": "https:\/\/plus.google.com\/115158713928516657979\/about?hl=en-US",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 6555 5020",
+      "CityName": "Mumbai",
+      "Distance": 8206.01491,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "20",
+          "Name": "Lebanese",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_15.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_14.jpg"
+    },
+    "13": {
+      "SubFranchiseID": "0",
+      "OutletID": "726",
+      "OutletName": "Hangla's",
+      "BrandID": "213",
+      "Address": "Taraput Tower, Adarsh Nagar, Andheri West, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 11 pm.",
+      "CityRank": null,
+      "Latitude": "19.14162",
+      "Longitude": "72.830821",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Hangla's",
+      "OutletURL": "https:\/\/plus.google.com\/109816892109995926123\/about?hl=en-US",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "(+91) 77 38364223",
+      "CityName": "Mumbai",
+      "Distance": 8205.20181,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "14",
+          "Name": "Eatery",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "71",
+          "Name": "Bengali",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "21",
+          "Name": "North Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_213.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_726.jpg"
+    },
+    "14": {
+      "SubFranchiseID": "0",
+      "OutletID": "64",
+      "OutletName": "Le Berian",
+      "BrandID": "42",
+      "Address": "311, Snehanjali CHS, Near Samartha Aishwarya, Adarsh Nagar 2, Adarsh Nagar, Andheri West, Mumbai.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.14363",
+      "Longitude": "72.831189",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Le Berian",
+      "OutletURL": "https:\/\/plus.google.com\/112252689282992203416\/about?hl=en-US",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "022 33487874",
+      "CityName": "Mumbai",
+      "Distance": 8205.26278,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_42.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_64.jpg"
+    },
+    "15": {
+      "SubFranchiseID": "0",
+      "OutletID": "54",
+      "OutletName": "Hyderabad Xpress",
+      "BrandID": "38",
+      "Address": "Adjacent Lane to Lotus Pump, Near Infinity Mall, Andheri West, Mumbai.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.144429",
+      "Longitude": "72.831465",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Hyderabad Xpress",
+      "OutletURL": "https:\/\/plus.google.com\/116000121486543610833\/about?hl=en-US",
+      "NumCoupons": 1,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "8419934333",
+      "CityName": "Mumbai",
+      "Distance": 8205.30057,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "26",
+          "Name": "Mughlai",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "60",
+          "Name": "Hyderabadi",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_38.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_54.jpg"
+    },
+    "16": {
+      "SubFranchiseID": "0",
+      "OutletID": "66",
+      "OutletName": "Cafe Poshtik",
+      "BrandID": "44",
+      "Address": "Shop 2, Amboli, Maina Gul Building, Caeser Road, Andheri west. Mumbai, Maharashtra, India 400058",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11.30 am to 10.30 pm.",
+      "CityRank": null,
+      "Latitude": "19.125799",
+      "Longitude": "72.844848",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Cafe Poshtik",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=Amboli,+Mumbai,+Maharashtra+400058,+India&ftid=0x3be7c9d7df1031c1:0xe67f8e1e958b0853",
+      "NumCoupons": 5,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "096 19 334922",
+      "CityName": "Mumbai",
+      "Distance": 8206.49043,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "2",
+          "Name": "Cafe",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_44.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_66.jpg"
+    },
+    "17": {
+      "SubFranchiseID": "0",
+      "OutletID": "482",
+      "OutletName": "Nothing But Chicken",
+      "BrandID": "319",
+      "Address": "9, Ground Floor, Nebula CHS, Near Mohan Medical, Opposite Aradhna Wines, Lokhandwala Complex, Andheri West, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 10 am to 10 pm.",
+      "CityRank": null,
+      "Latitude": "19.144568",
+      "Longitude": "72.823484",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Nothing But Chicken",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=Lokhandwala+Complex,+Andheri+West,+Mumbai,+Maharashtra,+India&ftid=0x3be7b61424a88363:0x38df86be208c36ed",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "022- 26252200",
+      "CityName": "Mumbai",
+      "Distance": 8204.46822,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "14",
+          "Name": "Eatery",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_319.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_482.jpg"
+    },
+    "20": {
+      "SubFranchiseID": "0",
+      "OutletID": "15",
+      "OutletName": "Quesso Ristorante",
+      "BrandID": "17",
+      "Address": "93-96, Link Plaza Comm. Premises Co-op Society Ltd.,, New Link Rd, Mhada Colony, Andheri West, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.148523",
+      "Longitude": "72.831751",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Quesso Ristorante",
+      "OutletURL": "https:\/\/plus.google.com\/112500904305002287650\/about?hl=en-US",
+      "NumCoupons": 4,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 2634 6600",
+      "CityName": "Mumbai",
+      "Distance": 8205.37634,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "29",
+          "Name": "Thai",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "18",
+          "Name": "Mexican",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "17",
+          "Name": "Italian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_17.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_15.jpg"
+    },
+    "21": {
+      "SubFranchiseID": "0",
+      "OutletID": "7",
+      "OutletName": "Koli World",
+      "BrandID": "7",
+      "Address": "Shop no.20,meera tower,near Mega Mall,Oshiwara,Andheri (W),mumbai-400053, Bhau Tatoba Toraskar Marg, Mhada Colony, Andheri West, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 12 am midnight.",
+      "CityRank": null,
+      "Latitude": "19.151008",
+      "Longitude": "72.83173",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Koli World-The Fishy Fiesta Private Limited",
+      "OutletURL": "https:\/\/plus.google.com\/113918790661798769542\/about?hl=en-US",
+      "NumCoupons": 1,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 6553 5353",
+      "CityName": "Mumbai",
+      "Distance": 8205.402,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "33",
+          "Name": "Seafood",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "34",
+          "Name": "Maharashtrian ",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_7.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_7.jpg"
+    },
+    "22": {
+      "SubFranchiseID": "0",
+      "OutletID": "16",
+      "OutletName": "Royal Flavours",
+      "BrandID": "18",
+      "Address": "Bldg no.10, Bhau Tatoba Toraskar Marg, Opposite Meera C.H.S, Oshiwara, Mhada Colony, Andheri West, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "1",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.151437",
+      "Longitude": "72.831422",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Royal Flavours",
+      "OutletURL": "https:\/\/plus.google.com\/107107458601387906025\/about?hl=en-US",
+      "NumCoupons": 1,
+      "NeighbourhoodName": "Andheri West",
+      "PhoneNumber": "+91 22 2632 0700",
+      "CityName": "Mumbai",
+      "Distance": 8205.37463,
+      "Categories": [
+        {
+          "OfflineCategoryID": "21",
+          "Name": "North Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "26",
+          "Name": "Mughlai",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_18.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_16.jpg"
+    },
+    "24": {
+      "SubFranchiseID": "0",
+      "OutletID": "705",
+      "OutletName": "Seven Hills",
+      "BrandID": "453",
+      "Address": "5, 9th Gulmohar Cross Road, Supreme Shopping Centre, J.V.P.D, Juhu, Mumbai.",
+      "NeighbourhoodID": "12",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11:30 am to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.113157",
+      "Longitude": "72.833085",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Seven Hills",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=Gulmohar+Rd,+Ramakrishna+Co-Op+Housing+Society,+MHADA+Colony,+Juhu,+Mumbai,+Maharashtra,+India&ftid=0x3be7c9c37ccef887:0x80a3c44a30b4e20d",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Juhu",
+      "PhoneNumber": "(+91) 22 26256491",
+      "CityName": "Mumbai",
+      "Distance": 8205.1197,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "22",
+          "Name": "Chinese",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "21",
+          "Name": "North Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_453.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_705.jpg"
+    },
+    "26": {
+      "SubFranchiseID": "0",
+      "OutletID": "5",
+      "OutletName": "Pebbles",
+      "BrandID": "5",
+      "Address": "Juhu Tara Rd, Theosophical Housing Colony, Juhu, Mumbai, Maharashtra 400049, India",
+      "NeighbourhoodID": "12",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 3:30 pm and 7 pm to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.100672",
+      "Longitude": "72.827251",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Juhu Residency",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=Juhu+Tara+Rd,+Theosophical+Housing+Colony,+Juhu,+Mumbai,+Maharashtra+400049,+India&ftid=0x3be7c99625b328ab:0xea6592e52fe2c201",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Juhu",
+      "PhoneNumber": "+91 8689885757",
+      "CityName": "Mumbai",
+      "Distance": 8204.37031,
+      "Categories": [
+        {
+          "OfflineCategoryID": "4",
+          "Name": "Hotel Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_5.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_5.jpg"
+    },
+    "27": {
+      "SubFranchiseID": "0",
+      "OutletID": "463",
+      "OutletName": "Nesta - Hotel Suba Galaxy",
+      "BrandID": "308",
+      "Address": "N.S. Phadke Road, Off.Western Express Highway, Andheri - Kurla Road, Azad, Nagar, Andheri East, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "119",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 11:30 pm.",
+      "CityRank": null,
+      "Latitude": "19.11569",
+      "Longitude": "72.856928",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Nesta - Hotel Suba Galaxy",
+      "OutletURL": "https:\/\/plus.google.com\/117451342687830079483\/about?hl=en-US",
+      "NumCoupons": 1,
+      "NeighbourhoodName": "Andheri East",
+      "PhoneNumber": "+ 91 22 2682 1188",
+      "CityName": "Mumbai",
+      "Distance": 8207.63983,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "2",
+          "Name": "Cafe",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_308.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_463.jpg"
+    },
+    "28": {
+      "SubFranchiseID": "0",
+      "OutletID": "465",
+      "OutletName": "Sydewok - Hotel Suba Galaxy",
+      "BrandID": "309",
+      "Address": "N.S. Phadke Road, Off.Western Express Highway, Andheri - Kurla Road, Azad, Nagar, Andheri East, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "119",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 3:30 pm and 7 pm to 12 am.",
+      "CityRank": null,
+      "Latitude": "19.11569",
+      "Longitude": "72.856928",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Sydewok - Hotel Suba Galaxy",
+      "OutletURL": "https:\/\/plus.google.com\/117451342687830079483\/about?hl=en-US",
+      "NumCoupons": 1,
+      "NeighbourhoodName": "Andheri East",
+      "PhoneNumber": "+91-91676-06506",
+      "CityName": "Mumbai",
+      "Distance": 8207.63983,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "32",
+          "Name": "Continental",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "26",
+          "Name": "Mughlai",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "21",
+          "Name": "North Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_309.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_465.jpg"
+    },
+    "29": {
+      "SubFranchiseID": "0",
+      "OutletID": "728",
+      "OutletName": "Hangla's",
+      "BrandID": "213",
+      "Address": "Opp. Novotel Hotel, Juhu Church, Juhu, Mumbai, Maharashtra, India.",
+      "NeighbourhoodID": "12",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 11 pm.",
+      "CityRank": null,
+      "Latitude": "19.098821",
+      "Longitude": "72.832072",
+      "Pincode": "400049",
+      "Landmark": "Novotel Hotel",
+      "Streetname": "Juhu Church Road",
+      "BrandName": "Hangla's",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=Juhu,+Mumbai,+Maharashtra,+India&ftid=0x3be7c9bf95d4ba07:0x35047c9c36b6cea1",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Juhu",
+      "PhoneNumber": "+91 7718831345",
+      "CityName": "Mumbai",
+      "Distance": 8204.85349,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "14",
+          "Name": "Eatery",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "71",
+          "Name": "Bengali",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "21",
+          "Name": "North Indian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_213.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_728.jpg"
+    },
+    "30": {
+      "SubFranchiseID": "0",
+      "OutletID": "29",
+      "OutletName": "Cheelizza",
+      "BrandID": "19",
+      "Address": "D Joshi Marg, LIC Colony, Suresh Colony, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "25",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Mon-Fri: 10 am to 11 pm.",
+      "CityRank": null,
+      "Latitude": "19.100162",
+      "Longitude": "72.842121",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Cheelizza",
+      "OutletURL": "https:\/\/plus.google.com\/112802095083307694003\/about?hl=en-US",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Vile Parle (west)",
+      "PhoneNumber": "+(91)-22-67305890",
+      "CityName": "Mumbai",
+      "Distance": 8205.91879,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "47",
+          "Name": "Pizza",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "8",
+          "Name": "Pizzeria",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_19.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_29.jpg"
+    },
+    "32": {
+      "SubFranchiseID": "0",
+      "OutletID": "57",
+      "OutletName": "Yummy Tiffins",
+      "BrandID": "40",
+      "Address": "206, Vasu Pujya, Opposite MTNL, Link Road, Goregaon West, Mumbai - 400104.",
+      "NeighbourhoodID": "32",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 12 pm to 4.30 pm",
+      "CityRank": null,
+      "Latitude": "19.162934",
+      "Longitude": "72.839241",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Yummy Tiffins",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=Goregaon+West,+Mumbai,+Maharashtra,+India&ftid=0x3be7b65081d27f11:0xa3ddbac169463ee3",
+      "NumCoupons": 3,
+      "NeighbourhoodName": "Goregaon (west)",
+      "PhoneNumber": "",
+      "CityName": "Mumbai",
+      "Distance": 8206.32045,
+      "Categories": [
+        {
+          "OfflineCategoryID": "11",
+          "Name": "Tiffin Service",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_40.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_57.jpg"
+    },
+    "33": {
+      "SubFranchiseID": "0",
+      "OutletID": "63",
+      "OutletName": "Healthy Tadka",
+      "BrandID": "41",
+      "Address": "Goregaon West, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "32",
+      "CityID": "1",
+      "Email": "pratik.jain@healthytadka.com",
+      "Timings": "Delivers lunch between 11 am to 4 pm and Dinner between 7 pm to 11.30 pm.",
+      "CityRank": null,
+      "Latitude": "19.162934",
+      "Longitude": "72.839241",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Healthy Tadka",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=Goregaon+West,+Mumbai,+Maharashtra,+India&ftid=0x3be7b65081d27f11:0xa3ddbac169463ee3",
+      "NumCoupons": 6,
+      "NeighbourhoodName": "Goregaon (west)",
+      "PhoneNumber": "9702566680",
+      "CityName": "Mumbai",
+      "Distance": 8206.32045,
+      "Categories": [
+        {
+          "OfflineCategoryID": "11",
+          "Name": "Tiffin Service",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_41.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_63.jpg"
+    },
+    "34": {
+      "SubFranchiseID": "0",
+      "OutletID": "185",
+      "OutletName": "China Ming",
+      "BrandID": "129",
+      "Address": "The Hub Mall, Nirlon Compound, Western Express Highway, Goregaon East, Goregaon East Mumbai, Maharashtra 400063 India",
+      "NeighbourhoodID": "33",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 10 am to 12 pm.",
+      "CityRank": null,
+      "Latitude": "19.15537",
+      "Longitude": "72.853763",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "China Ming",
+      "OutletURL": "https:\/\/maps.google.com\/maps\/place?q=Nirlon+Compound,+Cama+Industrial+Estate,+Goregaon+East,+Mumbai,+Maharashtra+400063,+India&ftid=0x3be7b7b4fe96759d:0xd9e181ff820273ef",
+      "NumCoupons": 2,
+      "NeighbourhoodName": "Goregaon (east)",
+      "PhoneNumber": "022 67066077",
+      "CityName": "Mumbai",
+      "Distance": 8207.75293,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "9",
+          "Name": "Restaurant",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_129.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_185.jpg"
+    },
+    "35": {
+      "SubFranchiseID": "0",
+      "OutletID": "106",
+      "OutletName": "Smokin' Joe's",
+      "BrandID": "24",
+      "Address": "NKP Cooling tower cafe, Western Express Highway, Goregaon East, Mumbai, Maharashtra, India",
+      "NeighbourhoodID": "33",
+      "CityID": "1",
+      "Email": null,
+      "Timings": "Everyday: 11 am to 11 pm.",
+      "CityRank": null,
+      "Latitude": "19.155526",
+      "Longitude": "72.85374",
+      "Pincode": null,
+      "Landmark": null,
+      "Streetname": null,
+      "BrandName": "Smokin' Joe's",
+      "OutletURL": "https:\/\/plus.google.com\/102655563749770810831\/about?hl=en-US",
+      "NumCoupons": 4,
+      "NeighbourhoodName": "Goregaon (east)",
+      "PhoneNumber": "+91 22 6503 7777",
+      "CityName": "Mumbai",
+      "Distance": 8207.75228,
+      "Categories": [
+        {
+          "OfflineCategoryID": "1",
+          "Name": "Restaurant",
+          "ParentCategoryID": null,
+          "CategoryType": ""
+        },
+        {
+          "OfflineCategoryID": "8",
+          "Name": "Pizzeria",
+          "ParentCategoryID": "1",
+          "CategoryType": "TypeOfRestaurant"
+        },
+        {
+          "OfflineCategoryID": "36",
+          "Name": "Fast Food",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "47",
+          "Name": "Pizza",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        },
+        {
+          "OfflineCategoryID": "17",
+          "Name": "Italian",
+          "ParentCategoryID": "1",
+          "CategoryType": "Cuisine"
+        }
+      ],
+      "LogoURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/logo_24.jpg",
+      "CoverURL": "http:\/\/www.coupondunia.in\/sitespecific\/media\/generated\/offlineimages\/cover_106.jpg"
+    }
+  },
+  "hash": "b262c62ea3c8c693ad35210289a487d6963434d7"
+}
